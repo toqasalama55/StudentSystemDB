@@ -10,9 +10,9 @@ namespace P01_StudentSystem.P01__StudentSystem.Models
     public class StudentCourse
     {
         public int Id { get; set; }
-        public Courses course { get; set; }
+        public List<Courses> course { get; set; }
         public int CourseID { get; set; }
-        public Students student { get; set; }
+        public List<Students> student { get; set; }
         public int StudentID { get; set; }
 
     }

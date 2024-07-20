@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\.net Course labs\\TaskEF02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,22 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|solutionrelative:p01_ studentsystem.models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1705AAF9-B987-40C4-A628-56BE7A1F866B}|P01_StudentSystem.csproj|d:\\.net course labs\\taskef02\\p01_ studentsystem.data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,31 +64,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "sales.order_items [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/./BikeStores/True/SqlTable/sales.order_items.sql",
               "ToolTip": "sales.order_items [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-20T00:45:43.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T00:45:43.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "sales.orders [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/./BikeStores/True/SqlTable/sales.orders.sql",
               "ToolTip": "sales.orders [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-20T00:44:07.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T00:44:07.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net Course labs\\Project3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Project3\\Program.cs",
@@ -96,12 +94,11 @@
               "RelativeToolTip": "..\\Project3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T23:54:12.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T23:54:12.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\.net Course labs\\Project3\\Models\\Product.cs",
               "RelativeDocumentMoniker": "..\\Project3\\Models\\Product.cs",
@@ -109,8 +106,7 @@
               "RelativeToolTip": "..\\Project3\\Models\\Product.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA1wBEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T00:04:56.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T00:04:56.427Z"
             },
             {
               "$type": "Document",
@@ -122,8 +118,7 @@
               "RelativeToolTip": "..\\Project3\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T23:54:07.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T23:54:07.714Z"
             },
             {
               "$type": "Document",
@@ -135,8 +130,7 @@
               "RelativeToolTip": "..\\BikeStoreDB\\Migrations\\20240719234837_initialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T23:48:37.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T23:48:37.529Z"
             },
             {
               "$type": "Document",
@@ -152,13 +146,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Resources.cs",
               "DocumentMoniker": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\Resources.cs",
               "RelativeDocumentMoniker": "P01_ StudentSystem.Models\\Resources.cs",
               "ToolTip": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\Resources.cs",
               "RelativeToolTip": "P01_ StudentSystem.Models\\Resources.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA9wBUAAAAXAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T12:31:12.108Z",
               "EditorCaption": ""
@@ -173,38 +167,37 @@
               "RelativeToolTip": "P01_ StudentSystem.Data\\StudentSystemContext.cs",
               "ViewState": "AQIAAFUAAAAAAAAAAAAAABYAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:01:00.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:01:00.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "StudentCourse.cs",
               "DocumentMoniker": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\StudentCourse.cs",
               "RelativeDocumentMoniker": "P01_ StudentSystem.Models\\StudentCourse.cs",
               "ToolTip": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\StudentCourse.cs",
               "RelativeToolTip": "P01_ StudentSystem.Models\\StudentCourse.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAswAwAAAAXAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T12:57:44.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Homework.cs",
               "DocumentMoniker": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\Homework.cs",
               "RelativeDocumentMoniker": "P01_ StudentSystem.Models\\Homework.cs",
               "ToolTip": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\Homework.cs",
               "RelativeToolTip": "P01_ StudentSystem.Models\\Homework.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAAAnAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T12:41:10.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Students.cs",
               "DocumentMoniker": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\Students.cs",
               "RelativeDocumentMoniker": "P01_ StudentSystem.Models\\Students.cs",
@@ -212,18 +205,17 @@
               "RelativeToolTip": "P01_ StudentSystem.Models\\Students.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAowAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:02:57.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T12:02:57.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Courses.cs",
               "DocumentMoniker": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\Courses.cs",
               "RelativeDocumentMoniker": "P01_ StudentSystem.Models\\Courses.cs",
               "ToolTip": "D:\\.net Course labs\\TaskEF02\\P01_ StudentSystem.Models\\Courses.cs",
               "RelativeToolTip": "P01_ StudentSystem.Models\\Courses.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswA0AAAAwAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA/wA8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T12:23:57.319Z",
               "EditorCaption": ""
@@ -238,12 +230,11 @@
               "RelativeToolTip": "P01_StudentSystem.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-19T11:58:32.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T11:58:32.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net Course labs\\TaskEF02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

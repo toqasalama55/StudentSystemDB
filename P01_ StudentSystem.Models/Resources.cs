@@ -19,7 +19,7 @@ namespace P01_StudentSystem.P01__StudentSystem.Models
             Other
         }
         
-        public Courses course { get; set; }
+        public List<Courses> Courses { get; set; }
         public int CourseID { get; set; }
     }
 }

@@ -18,9 +18,9 @@ namespace P01_StudentSystem.P01__StudentSystem.Models
             Zip
         }
         public DateTime? SubmissionTime { get; set; }
-        public Courses course { get; set; }
+        public List<Courses> Courses { get; set; }
         public int CourseID { get; set; }
-        public Students student { get; set; }
+        public List<Students> Students { get; set; }
         public int StudentID { get; set; }
 
     }
